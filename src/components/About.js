@@ -9,19 +9,23 @@ const About = () => {
       </h1>
       <Text>
         <p>
-          Hi, I'm <strong>Philipp Kant</strong>, a passionate Data Scientist and Web Developer, holding a Master's degree in Computer Science with a specialization in Deep Learning from RWTH Aachen University. With a strong foundation in software development and a deep understanding of data analysis, here's what I offer:
+          Hi, I'm <strong>Joylene C. Agman</strong>,   a spirited individual defined by resilience and a vision for a life filled with purpose. Born on November 11, 2002, and nurtured under the loving guidance of my grandmother, I carry a profound sense of family and community that anchors my values and aspirations.
         </p>
-    <p>
-        <ul>
-          <li>Advanced knowledge in machine learning and data science</li>
-          <li>Extensive experience in web development and interface design</li>
-          <li>Expertise in Python, JavaScript, and modern technologies</li>
-          <li>Effective solutions for data processing and analysis</li>
-          <li>Development of strategies for data integration and optimization</li>
-        </ul>
-    </p>
+
         <p>
-          I bring a combination of technical expertise and practical experience to support companies as a consultant and freelance developer. My goal is to meet and exceed your digital ambitions with tailored, effective strategies and techniques. Let's talk about how I can advance your business with innovative data-driven solutions.
+        Currently, I am navigating the complexities of a Bachelor of Science in Computer Science at NEMSU-LC. While my course may not align with my passions, I've embraced the challenge.
+        </p>
+
+        <p>
+        Solitude is my sanctuary, where I recharge, reflect, and nurture my aspirations. During these moments, I immerse myself in the captivating worlds of Korean dramas, drawn to their masterful storytelling and rich cultural narratives. These tales ignite my imagination and offer a window into boundless creativity.
+        </p>
+
+        <p>
+        My ultimate dream lies beyond the bounds of my current field, I aspire a flight attendant, embodying my love for exploration connection, and adventure. Yet, more than personal ambition, my deepest motivation is to elevate my family's dreams and turn them into reality.
+        </p>
+
+        <p>
+        While the path I'm on may be unconventional, every step is a part of shaping who I am and who I aspire to become. I look forward to embrace new challenges, exploring endless possibilities, and creating a future filled with purpose and meaning.
         </p>
         <p>
           <a

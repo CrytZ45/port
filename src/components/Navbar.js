@@ -97,7 +97,7 @@ const Navbar = ({ isOpen, setIsOpen, theme, setTheme, scroll, location }) => {
             scroll={scroll}
             path={location}
           >
-            Projects
+            Education
           </MenuLink>
           <MenuLink
             exact

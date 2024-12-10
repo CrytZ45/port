@@ -6,43 +6,19 @@ const Projects = () => {
   return (
     <ProjectsContainer>
       <h1>
-        <span className="title">Projects</span>
+        <span className="title">Education</span>
       </h1>
       <Grid>
         <Card
           img={require('../images/twitterbot.png')}
-          title="Twitter bot"
-          description="Twitter bot that tweets about historical events that happened on this date."
-          technologies="Javascript - Node.js - Express.js - Heroku"
-          link_two="https://twitter.com/historyyearsago"
-          link_three="https://github.com/philippkant/twitter-history-bot"
-          link_two_text="Website"
-          link_three_text="Github"
+          title="St. Christine National High Schools"
+          description="June 2015 - June 2021"
+
         />
         <Card
           img={require('../images/learncity.png')}
-          title="Learn City (Hackathon)"
-          description="My team's submission for the Level-Up Society hackathon."
-          technologies="Javascript - Kaboom.js - Bootstrap"
-          link_one="https://devpost.com/software/learn-city"
-          link_two="https://einguterwaran.github.io/LearnCity/"
-          link_three="https://github.com/EinGuterWaran/LearnCity"
-          collaboratorName="Janu Lingeswaran"
-          collaboratorLink="https://www.lingeswaran.com"        
-          link_one_text="Devpost"
-          link_two_text="Website"
-          link_three_text="Github"
-        />
-        <Card
-          img={require('../images/kantdev.png')}
-          title="kant.dev"
-          description="My personal website that you are currently viewing."
-          technologies="Javascript - React.js -"
-          technologies2="styled-components - Netlify"
-          link_two="https://kant.dev"
-          link_three="https://github.com/philippkant/philippkant.com"
-          link_two_text="Website"
-          link_three_text="Github"
+          title="NEMSU - Lianga Campus"
+          description="Jun 2021 - JUN 2025"
         />
       </Grid>
     </ProjectsContainer>

@@ -6,34 +6,8 @@ const Footer = ({ location }) => {
   return (
     <Container>
       <Copyright location={location}>
-        <p>© 2024 Philipp Kant</p>
+        <p>© 2024 J. Agman</p>
       </Copyright>
-      <Social location={location}>
-        <a
-          className="social"
-          href="https://github.com/philippkant/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FaGithub size="1.5rem" />
-        </a>
-        <a
-          className="social"
-          href="https://www.linkedin.com/in/philippkant/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FaLinkedin size="1.5rem" />
-        </a>
-        <a
-          className="social"
-          href="mailto:ptckant@gmail.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FaEnvelope size="1.5rem" />
-        </a>
-      </Social>
     </Container>
   );
 };

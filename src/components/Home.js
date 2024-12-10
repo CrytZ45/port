@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaEnvelope, FaFacebook, FaInstagram } from 'react-icons/fa';
 import img from '../images/profile6.jpg';
 
 const Container = styled.div`
@@ -20,42 +20,42 @@ const Home = () => {
           </div>
           <div className="profile-text">
             <div className="hi">Hi! I'm</div>
-            <h1>Philipp&nbsp;Kant</h1>
+            <h1>J.&nbsp;Agman</h1>
           </div>
         </ProfileCard>
         <div className="short">
-            A Software Developer combining data science expertise with modern technologies for smart, data-driven solutions.
+            Thanks for stopping by, Enjoy scrolling through my Portfolio!
         </div>
 
         <Social>
           <div className="iconcontainer">
             <a
               className="same"
-              href="https://github.com/philippkant/"
+              href="https://www.facebook.com/joysdfgcg?mibextid=ZbWKwL"
               target="_blank"
               rel="noopener noreferrer"
-              title="Look through my Github profile"
+              title="Look through my Facebook profile"
             >
-              <FaGithub size="1.5rem" className="icon" />
-              <span className="icontext">Github</span>
+              <FaFacebook size="1.5rem" className="icon" />
+              <span className="icontext">Facebook</span>
             </a>
           </div>
           <div className="iconcontainer">
             <a
               className="same"
-              href="https://www.linkedin.com/in/philippkant/"
+              href="https://www.instagram.com/thatgirljoysdfgh/profilecard/?igsh=MXNkeXdqb3o2OHh3cA=="
               target="_blank"
               rel="noopener noreferrer"
-              title="Look through my Github profile"
+              title="Look through my Instagram profile"
             >
-              <FaLinkedin size="1.5rem" className="icon" />
-              <span className="icontext">LinkedIn</span>
+              <FaInstagram size="1.5rem" className="icon" />
+              <span className="icontext">Instagram</span>
             </a>
           </div>
           <div className="iconcontainer">
             <a
               className="same"
-              href="mailto:ptckant@gmail.com"
+              href="joyleneagmanc@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               title="Look through my Github profile"

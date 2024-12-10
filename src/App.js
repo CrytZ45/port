@@ -60,7 +60,7 @@ const App = () => {
       title = '404';
     }
     document.title =
-      title[0].toUpperCase() + title.slice(1) + ' | ' + 'kant.dev';
+      title[0].toUpperCase() + title.slice(1) + ' | ' + 'J.';
   });
 
   useEffect(() => {
